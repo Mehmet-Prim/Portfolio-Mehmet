@@ -29,11 +29,11 @@ export default function Portfolio() {
         },
         {
             id: 3,
-            title: "Task Management App",
-            description: "Produktivitäts-App mit Drag & Drop Funktionen",
+            title: "Portfolio Mehmet",
+            description: "Portfolio von Mehmet",
             image: Project3,
-            tags: ["React", "TypeScript", "Firebase"],
-            link: "/projekte/task-manager"
+            tags: ["NextJS", "React", "Tailwind CSS"],
+            link: "https://github.com/Mehmet-Prim/Portfolio-Mehmet"
         },
     ];
 

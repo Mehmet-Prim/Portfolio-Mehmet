@@ -258,7 +258,7 @@ export default function Home() {
                                 title: "Portfolio Mehmet",
                                 description: "Portfolio von Mehmet",
                                 tags: ["NextJS", "Tailwind CSS", "ShadcnUI"],
-                                githubUrl: "#"
+                                githubUrl: "https://github.com/Mehmet-Prim/Portfolio-Mehmet"
                             },
                         ].map((project) => (
                             <div key={project.id} className="group relative overflow-hidden rounded-2xl hover:-translate-y-2 transition-all duration-500">
